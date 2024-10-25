@@ -10,12 +10,27 @@ const routes = [
   {
     path: '/words',
     name: 'words',
-    component: () => import('@/views/words.vue')
+    component: () => import('@/views/questionType/words.vue')
+  },
+  {
+    path: '/404',
+    name: 'Error',
+    component: () => import('@/views/error/404.vue'),
+    meta: {
+      title: '404'
+    }
+  },
+  {
+    path: '/:pathMatch(.*)*',
+    name: 'notFound',
+    redirect: {
+      path: '/404'
+    }
   }
 ]
 
 const router = createRouter({
-  history: createWebHistory(process.env.BASE_URL),
+  history: createWebHistory(),
   routes
 })
 

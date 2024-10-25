@@ -32,6 +32,28 @@ export const cmGetStoreItem = (name) => {
   return JSON.parse(obj)
 }
 
+// 用于判断有没有重复的成语,将ID返回
+const findDuplicateIdioms = (dictionary) => {
+  const idiomMap = {};
+  const duplicates = [];
+
+  dictionary.forEach(({ id, words }) => {
+    if (idiomMap[words]) {
+      // 如果成语已经在 map 中，添加其 ID
+      duplicates.push(id);
+      // 同时添加原来成语的 ID
+      if (!duplicates.includes(idiomMap[words])) {
+        duplicates.push(idiomMap[words]);
+      }
+    } else {
+      // 如果成语不在 map 中，添加成语及其 ID
+      idiomMap[words] = id;
+    }
+  });
+
+  return duplicates;
+};
+
 /***
  * @跳转对应小程序参数封装
  * 101  健康自测，心里自测

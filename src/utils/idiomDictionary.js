@@ -116,8 +116,8 @@ export const idiomDicitionary = [
   },
   {
     id: 24,
-    words: '唇齿相依',
-    notes: '比喻互相依存，关系密切。',
+    words: '互通有无',
+    notes: '拿出自己多余的东西给对方，与之进行交换，以得到自己所缺少的东西。',
   },
   {
     id: 25,
@@ -351,8 +351,8 @@ export const idiomDicitionary = [
   },
   {
     id: 71,
-    words: '风靡一时',
-    notes: '强调在某一时间段内流行。',
+    words: '纤毫毕现',
+    notes: '形容完全显现出来，或暴露无遗。',
   },
   {
     id: 72,
@@ -456,8 +456,8 @@ export const idiomDicitionary = [
   },
   {
     id: 92,
-    words: '波诡云谲',
-    notes: '一般搭配宫廷秘事。',
+    words: '咬文嚼字',
+    notes: '（1）字斟句酌、反复推敲、十分讲究。（积极）（2）形容过分地斟酌字句。指只注意文字的表述、死扣字眼，而不注意精神实质。也形容故意卖弄学识。（消极）',
   },
   {
     id: 93,
@@ -477,7 +477,7 @@ export const idiomDicitionary = [
   {
     id: 96,
     words: '波诡云谲',
-    notes: '形容事态变幻莫测。',
+    notes: '形容事态变幻莫测，一般搭配宫廷秘事。',
   },
   {
     id: 97,
@@ -631,8 +631,8 @@ export const idiomDicitionary = [
   },
   {
     id: 127,
-    words: '心无旁骛',
-    notes: '心思集中，专心致志。',
+    words: '事与愿违',
+    notes: '事情没能按照预想的方向发展。',
   },
   {
     id: 128,
@@ -651,8 +651,8 @@ export const idiomDicitionary = [
   },
   {
     id: 131,
-    words: '分道扬镳',
-    notes: '比喻因目标不同而各走各的路。',
+    words: '草蛇灰线',
+    notes: '比喻事物留下隐约可寻的线索和迹象。',
   },
   {
     id: 132,
@@ -781,8 +781,8 @@ export const idiomDicitionary = [
   },
   {
     id: 157,
-    words: '顾此失彼',
-    notes: '形容照顾不过来。',
+    words: '念兹在兹',
+    notes: '念：思念。兹：此，这个。泛指念念不忘某一件事情。',
   },
   {
     id: 158,
@@ -866,8 +866,8 @@ export const idiomDicitionary = [
   },
   {
     id: 174,
-    words: '浩如烟海',
-    notes: '形容文献、资料等非常丰富。',
+    words: '抽丝剥茧',
+    notes: '丝得一根一根地抽，茧得一层一层地剥。形容分析事物极为细致，而且一步一步很有层次。',
   },
   {
     id: 175,
@@ -986,8 +986,8 @@ export const idiomDicitionary = [
   },
   {
     id: 198,
-    words: '斗转星移',
-    notes: '季节或时间的变化。',
+    words: '舍我其谁',
+    notes: '形容人敢于担当，遇有该做的事，决不退让。',
   },
   {
     id: 199,
@@ -1016,8 +1016,8 @@ export const idiomDicitionary = [
   },
   {
     id: 204,
-    words: '登堂入室',
-    notes: '比喻学问或技能从浅到深，达到很高的水平。',
+    words: '言不及义',
+    notes: '及：涉及。义：正经的道理。净说些无聊的话，说不到问题的关键所在，没有一句说到正经的道理。',
   },
   {
     id: 205,
@@ -1171,13 +1171,13 @@ export const idiomDicitionary = [
   },
   {
     id: 235,
-    words: '浩如烟海',
-    notes: '形容典籍、图书等极为丰富。',
+    words: '适得其反',
+    notes: '恰恰得到与预期相反的结果。',
   },
   {
     id: 236,
-    words: '触类旁通',
-    notes: '掌握了某一事物的知识或规律，进而推知同类事物的知识或规律。',
+    words: '难以为继',
+    notes: '难于继续下去。',
   },
   {
     id: 237,
@@ -1186,8 +1186,8 @@ export const idiomDicitionary = [
   },
   {
     id: 238,
-    words: '融会贯通',
-    notes: '把各方面的知识和道理融化汇合，得到全面透彻的理解。',
+    words: '吉光片羽',
+    notes: '吉光：古代神话中的神兽名。片羽：一片毛。古代汉族传说中，吉光是神兽，毛皮为裘，入水数日不沉，入火不焦。比喻残存的珍贵文物。',
   },
   {
     id: 239,
@@ -1206,8 +1206,8 @@ export const idiomDicitionary = [
   },
   {
     id: 242,
-    words: '举一反三',
-    notes: '比喻从一件事情类推而知道其他许多事情。',
+    words: '急功近利',
+    notes: '功：成功。近：眼前的。急于求成，贪图眼前的成效和利益。',
   },
   {
     id: 243,
@@ -1226,8 +1226,8 @@ export const idiomDicitionary = [
   },
   {
     id: 246,
-    words: '历久弥新',
-    notes: '指经历长久的时间而更加鲜活，更加有活力，更显价值。',
+    words: '冠冕堂皇',
+    notes: '形容故意显得外表庄严体面或正大的样子，实际上并非如此。',
   },
   {
     id: 247,
@@ -1276,8 +1276,8 @@ export const idiomDicitionary = [
   },
   {
     id: 256,
-    words: '鱼目混珠',
-    notes: '用假的冒充真的。',
+    words: '堂而皇之',
+    notes: '堂皇：官署的大堂，引申为气势盛大的样子。',
   },
   {
     id: 257,
@@ -1286,8 +1286,8 @@ export const idiomDicitionary = [
   },
   {
     id: 258,
-    words: '鱼龙混杂',
-    notes: '好的和坏的混在一起。',
+    words: '妙语连珠',
+    notes: '巧妙风趣的话一个接一个。',
   },
   {
     id: 259,
@@ -1296,8 +1296,8 @@ export const idiomDicitionary = [
   },
   {
     id: 260,
-    words: '稗官野史',
-    notes: '指旧时的小说和私人编撰的史书。',
+    words: '应接不暇',
+    notes: '原形容景物繁多，来不及观赏。现多形容来人或事情太多，应付不过来。',
   },
   {
     id: 261,
@@ -1306,8 +1306,8 @@ export const idiomDicitionary = [
   },
   {
     id: 262,
-    words: '道听途说',
-    notes: '路上听来的消息，指没有根据的传闻。',
+    words: '因地制宜',
+    notes: '根据各地的具体情况，制定适宜的办法。',
   },
   {
     id: 263,
@@ -1316,8 +1316,8 @@ export const idiomDicitionary = [
   },
   {
     id: 264,
-    words: '方兴未艾',
-    notes: '事物正在发展，尚未达到止境。',
+    words: '羚羊挂角',
+    notes: '比喻意境超脱，不着形迹。',
   },
   {
     id: 265,
@@ -1326,8 +1326,8 @@ export const idiomDicitionary = [
   },
   {
     id: 266,
-    words: '大行其道',
-    notes: '某种新潮事物流行、盛行，成为一种风尚。',
+    words: '妙手偶得',
+    notes: '指技术高超的人，偶然间得到的灵感或作品。也用来形容文学素养很深的人，出于灵感，即可偶然间得到妙语佳作。',
   },
   {
     id: 267,
@@ -1361,8 +1361,8 @@ export const idiomDicitionary = [
   },
   {
     id: 273,
-    words: '凤毛麟角',
-    notes: '比喻珍贵而稀少的人或物。',
+    words: '纷至沓来',
+    notes: '纷：众多，杂乱。沓：多，重复。形容接连不断的到来。',
   },
   {
     id: 274,
@@ -1371,13 +1371,13 @@ export const idiomDicitionary = [
   },
   {
     id: 275,
-    words: '如火如荼',
-    notes: '气势旺盛，气氛热烈。',
+    words: '兼收并蓄',
+    notes: '把不同内容、不同性质的东西收下来，保存起来。',
   },
   {
     id: 276,
-    words: '寥寥无几',
-    notes: '非常稀少，没有几个。',
+    words: '画饼充饥',
+    notes: '画个饼来解除饥饿。比喻用空想来安慰自己或欺骗别人。',
   },
   {
     id: 277,
@@ -1441,8 +1441,8 @@ export const idiomDicitionary = [
   },
   {
     id: 289,
-    words: '分庭抗礼',
-    notes: '比喻平起平坐，彼此对等的关系。',
+    words: '因噎废食',
+    notes: '原指因为有人吃饭噎死了，就想让天下人都不吃饭。比喻要做的事情由于出了点小毛病或怕出问题就索性不去干。',
   },
   {
     id: 290,
@@ -1516,8 +1516,8 @@ export const idiomDicitionary = [
   },
   {
     id: 304,
-    words: '俯拾皆是',
-    notes: '形容多而易得。',
+    words: '言简意赅',
+    notes: '言语简明而意思完备。',
   },
   {
     id: 305,
@@ -1536,8 +1536,8 @@ export const idiomDicitionary = [
   },
   {
     id: 308,
-    words: '不计其数',
-    notes: '形容数量很多。',
+    words: '改天换地',
+    notes: '彻底改变原来的面貌。比喻彻底的大规模的变革。常用来指自然或社会的根本变革，改造社会，改造自然。',
   },
   {
     id: 309,
@@ -1656,8 +1656,8 @@ export const idiomDicitionary = [
   },
   {
     id: 332,
-    words: '一日千里',
-    notes: '比喻进展极快。',
+    words: '铢积寸累',
+    notes: '铢：我国古代极小的重量单位。形容一点一滴地积累。也形容事物完成的不容易。',
   },
   {
     id: 333,
@@ -1706,8 +1706,8 @@ export const idiomDicitionary = [
   },
   {
     id: 342,
-    words: '此消彼长',
-    notes: '这个下降，那个上升。',
+    words: '阳春白雪',
+    notes: '原指古代楚国的一种艺术性较强难度较大的歌曲。后泛指高雅的、不通俗的文学艺术。',
   },
   {
     id: 343,
@@ -1966,8 +1966,8 @@ export const idiomDicitionary = [
   },
   {
     id: 394,
-    words: '登峰造极',
-    notes: '比喻达到最高的境界或成就。',
+    words: '争先恐后',
+    notes: '争着向前，唯恐落后。',
   },
   {
     id: 395,
@@ -1976,8 +1976,8 @@ export const idiomDicitionary = [
   },
   {
     id: 396,
-    words: '汗牛充栋',
-    notes: '形容藏书非常多。',
+    words: '戎马倥偬',
+    notes: '戎马：战马，借指战事。倥偬：急迫匆忙。在战争中奔走忙碌。形容军务繁忙。',
   },
   {
     id: 397,
@@ -1986,8 +1986,8 @@ export const idiomDicitionary = [
   },
   {
     id: 398,
-    words: '无与伦比',
-    notes: '指事物非常完美，没有能够与它相比的同类的东西。',
+    words: '车马盈门',
+    notes: '盈：满。门前停满了车马。比喻宾客很多。',
   },
   {
     id: 399,
@@ -2091,8 +2091,8 @@ export const idiomDicitionary = [
   },
   {
     id: 419,
-    words: '层出不穷',
-    notes: '形容事物连续出现，没有穷尽。',
+    words: '曲意逢迎',
+    notes: '违背自己的本心去迎合别人的意思。指想方设法奉承讨好别人。',
   },
   {
     id: 420,
@@ -2306,8 +2306,8 @@ export const idiomDicitionary = [
   },
   {
     id: 462,
-    words: '慎终追远',
-    notes: '旧指慎重地办理父母丧事，诚地祭祀远代祖先，后也指谨慎从事，追念前贤。',
+    words: '天翻地覆',
+    notes: '覆：翻过来。形容变化巨大。也形容闹得很凶，或秩序大乱。',
   },
   {
     id: 463,
@@ -2326,8 +2326,8 @@ export const idiomDicitionary = [
   },
   {
     id: 466,
-    words: '革故鼎新',
-    notes: '除去旧的，建立新的。',
+    words: '临渴掘井',
+    notes: '等到口渴的时候才去挖井。比喻不早些准备，事到临头才想办法。',
   },
   {
     id: 467,
@@ -2386,8 +2386,8 @@ export const idiomDicitionary = [
   },
   {
     id: 478,
-    words: '莫衷一是',
-    notes: '形容意见分歧，没有一致的看法。',
+    words: '巧言令色',
+    notes: '巧言：花言巧语。令色：讨好的表情。形容花言巧语，虚伪讨好。',
   },
   {
     id: 479,
@@ -2551,7 +2551,7 @@ export const idiomDicitionary = [
   },
   {
     id: 511,
-    words: '枝独秀',
+    words: '一枝独秀',
     notes: '形容最为突出，最为优秀。',
   },
   {
@@ -2591,8 +2591,8 @@ export const idiomDicitionary = [
   },
   {
     id: 519,
-    words: '束之高阁',
-    notes: '捆起来以后放在高高的架子上;比喻放着不用，或放在一旁不管。',
+    words: '层见叠出',
+    notes: '指接连不断地多次出现。',
   },
   {
     id: 520,
@@ -2616,8 +2616,8 @@ export const idiomDicitionary = [
   },
   {
     id: 524,
-    words: '如出一辙',
-    notes: '比喻两件事情非常相似。',
+    words: '削足适履',
+    notes: '因为鞋小脚大，就把脚削去一块来凑合鞋的大小。比喻不合理地迁就现成条件，或不顾具体条件，生搬硬套。',
   },
   {
     id: 525,
@@ -2626,8 +2626,8 @@ export const idiomDicitionary = [
   },
   {
     id: 526,
-    words: '大同小异',
-    notes: '大体相同，略有差异。',
+    words: '生搬硬套',
+    notes: '指不顾实际情况，机械地运用别人的经验，照抄别人的办法。',
   },
   {
     id: 527,
@@ -2676,8 +2676,8 @@ export const idiomDicitionary = [
   },
   {
     id: 536,
-    words: '循规蹈矩',
-    notes: '形容一举一动拘守旧框框，不敢稍有变动。',
+    words: '颠扑不破',
+    notes: '无论怎样摔打都破不了。比喻言论、学说等牢固可靠，经得起检验。',
   },
   {
     id: 537,
@@ -2696,8 +2696,8 @@ export const idiomDicitionary = [
   },
   {
     id: 540,
-    words: '固步自封',
-    notes: '比喻守着老一套，不求进步。',
+    words: '爱莫能助',
+    notes: '形容虽然心中关切同情，非常愿意帮助，但因力量或条件的限制而没有办法做到。',
   },
   {
     id: 541,
