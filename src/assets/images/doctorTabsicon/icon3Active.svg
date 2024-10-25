@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="26px" viewBox="0 0 26 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 30</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="医生端" transform="translate(-301.000000, -663.000000)" fill-rule="nonzero">
+            <g id="编组-35备份-5" transform="translate(301.000000, 663.000000)">
+                <g id="22资料、手册" transform="translate(3.000000, 3.000000)">
+                    <rect id="矩形" fill="#000000" opacity="0" x="0" y="0" width="20" height="20"></rect>
+                    <path d="M17.5,3.75 L17.5,17.5 L5.015625,17.5 C3.625,17.5 2.5,16.375 2.5,14.984375 L2.5,5.015625 C2.5,3.625 3.625,2.5 5.015625,2.5 L15,2.5 L15,12.5 L5.03125,12.5 C4.328125,12.5 3.75,13.078125 3.75,13.78125 L3.75,14.96875 C3.75,15.671875 4.328125,16.25 5.03125,16.25 L16.25,16.25 L16.25,3.75 L17.5,3.75 Z M15,13.75 L5,13.75 L5,15 L15,15 L15,13.75 Z" id="形状" fill="#1B8BFF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
