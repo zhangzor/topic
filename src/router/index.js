@@ -28,49 +28,49 @@ const routes = [
       title: '速算练习'
     }
   },
-  // 加法
+  // 多位数加法
   {
     path: '/algorithm/addition',
     name: 'addition',
     component: () => import('@/views/algorithm/addition.vue'),
     meta: {
-      title: '加法'
+      title: '多位数加法'
     }
   },
-  // 减法
+  // 多位数减法
   {
     path: '/algorithm/subtraction',
     name: 'subtraction',
     component: () => import('@/views/algorithm/subtraction.vue'),
     meta: {
-      title: '减法'
+      title: '多位数减法'
     }
   },
-  // 乘法
+  // 多位数乘法
   {
     path: '/algorithm/multiplication',
     name: 'multiplication',
     component: () => import('@/views/algorithm/multiplication.vue'),
     meta: {
-      title: '乘法'
+      title: '多位数乘法'
     }
   },
-  // 除法
+  // 多位数除法
   {
     path: '/algorithm/division',
     name: 'division',
     component: () => import('@/views/algorithm/division.vue'),
     meta: {
-      title: '除法'
+      title: '多位数除法'
     }
   },
-  // 百分比
+  // 百分比乘法
   {
     path: '/algorithm/percentage',
     name: 'percentage',
     component: () => import('@/views/algorithm/percentage.vue'),
     meta: {
-      title: '百分比'
+      title: '百分比乘法'
     }
   },
   // 两位数加法
@@ -120,6 +120,15 @@ const routes = [
 const router = createRouter({
   history: createWebHistory(),
   routes
+})
+
+/**
+ * @description 路由拦截
+ * */
+router.beforeEach(async (to, from, next) => {
+  // 更改title名称
+  to.meta.title && (document.title = to.meta.title)
+  next()
 })
 
 export default router
